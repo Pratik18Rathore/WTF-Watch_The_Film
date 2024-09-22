@@ -38,7 +38,7 @@ Wanna run WTF locally? Here’s how to do it:
 1. **Clone this WTF repository**:
 
    ```bash
-   git clone https://github.com/your-username/wtf.git
+   git clone https://github.com/pratik18rathore/wtf.git
 2. **Go to the WTF directory:**:
 
    ```bash
@@ -57,7 +57,7 @@ Wanna run WTF locally? Here’s how to do it:
 ## 🌍 WTF Is It Deployed?
 
 Yes! WTF is live and deployed on Vercel for your movie-browsing pleasure.  
-Check it out here – [WTF Movies](https://your-vercel-link-here) – because why wouldn’t you want to? 🍿🎥   
+Check it out here – [WTF Movies](https://wtf-watch-the-film.vercel.app/) – because why wouldn’t you want to? 🍿🎥   
 
 ## 🛠️ WTF If I Want To Contribute?
 
